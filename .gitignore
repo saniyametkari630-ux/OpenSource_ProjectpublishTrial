@@ -1,0 +1,9 @@
+*.class
+out/
+bin/
+.idea/
+.vscode/
+Then execute:
+git add .gitignore
+git commit -m "Add gitignore"
+git push
